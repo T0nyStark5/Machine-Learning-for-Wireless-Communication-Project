@@ -44,11 +44,8 @@ Note:
 ## 4. Dataset Setup
 
 ### Required Files
-project-root/
-│
-├── data/
-│ ├── dichasus-cf02.tfrecords
-│ ├── spec.json
+- project-root/data/dichasus-cf02.tfrecords
+- project-root/data/spec.json
 
 ---
 
